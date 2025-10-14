@@ -1,3 +1,16 @@
+# Version 2
+
+no hay mucho cambio o podria decir un cambio nulo
+en el diseño de la pagina, unicamente en esta
+version añadimos un poco de JavaScript y añadimos
+la API de TVMaze de donde agarraremos todos los
+shows para nuestra pagina CLON.
+
+## 😶‍🌫️ Código
+
+JavaScript
+
+```JavaScript
 // api a tvmaze
 const API = "https://api.tvmaze.com"
 
@@ -35,3 +48,12 @@ const fetchJSON = async (url) => {
 }
 
 init()
+
+```
+
+---
+Links de Navegación
+
+-✔️ [README](README.md)
+-✔️ [Version 1](version1.md)
+-✔️ [Version 3](version3.md)

@@ -1,34 +1,14 @@
-# 👤 Introduccion 
+# 👤 Clon de nuestro querido Netflix 
 
-Introduccion al proyecto
+En este proyecto estaremos realizando nuestra propia
+plataforma de streaming, incluiremos funciones bastante
+parecidas a netflix pero sin ser netflix, en donde 
+trabajaremos con CSS, HTML y JavaScript.
 
-## 😶‍🌫️ va un subtitulo
+## 😶‍🌫️ Versiones
 
-texto del subtitulo
-- Aqui va un punto
-- Aqui va otro punto
+Por el momento llevamos trabajadas dos versiones
+en donde se puede ver el progreso hecho.
 
-```css
-body{
-    background: #000000;
-}
-```
-
----
-Separacion
-
-```plaintext
-proyecto/
-|- src/
-| |--index.js
-```
-
----
-Tablas
-```plaintext
-| Columna 1 | Columna 2 | Columna 3 |
-| ----------|-----------|-----------|
-| Datos.    | Datos.    | Datos.    |
-```
-
--✔️ [Instalacion](instalacion.md)
+-✔️ [Version 1](version1.md)
+-✔️ [Version 2](version2.md)
